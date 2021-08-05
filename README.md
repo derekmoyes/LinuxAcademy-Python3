@@ -1,2 +1,5 @@
 # LinuxAcademy-Python3
-LinuxAcademy Python 3 Scripting for System Administrators
+
+These are MY example scripts from the LinuxAcademy course for Systems 
+Administrators with Python 3.
+
